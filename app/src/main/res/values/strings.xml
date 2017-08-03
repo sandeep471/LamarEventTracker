@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lamar Events</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="no_events">Currently no Events Available</string>
+    <string name="take_me_there">Take me there</string>
+    <string name="contact">Contact:</string>
+    <string name="details">Details:</string>
+    <string name="location">Location:</string>
+    <string name="time">Time:</string>
+    <string name="date">Date:</string>
+</resources>
